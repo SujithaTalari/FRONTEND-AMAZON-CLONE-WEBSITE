@@ -22,7 +22,7 @@ Usage :
 
 1.Clone the repository:
 
-git clone https://github.com/Noushin-Kureshi/FRONTEND-AMAZON-CLONE-WEBSITE
+git clone https://github.com/Sujitha Talari/FRONTEND-AMAZON-CLONE-WEBSITE
 
 2.cd FRONTEND-AMAZON-CLONE-WEBSITE
 
